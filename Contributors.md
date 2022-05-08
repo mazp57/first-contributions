@@ -25,6 +25,7 @@
 - [Jon Pena]
 - [3nhit] (https://github.com/3nhit)
 - [khada]
+- [Marien Zambrano]
 - [akavort]
 - [Gab McCullough-Murray](https://github.com/gabmcm)
 - [Collins Kandongwe](https://github.com/Kandongwe)
